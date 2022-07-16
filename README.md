@@ -1,4 +1,3 @@
-# Template for creating small projects with sass
+# Manage Landing Page frontent mentor challange
 
-Dont forget to:
-rm -rf .git
+This is the readme file
